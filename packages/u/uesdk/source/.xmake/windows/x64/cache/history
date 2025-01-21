@@ -1,0 +1,32 @@
+{
+    cmdlines = {
+        [[xmake f -P "C:\\\\Users\\\\Admin\\\\Desktop\\\\I HATE EMBERS\\\\myrepo\\\\packages\\\\u\\\\uesdk\\\\port" -y -c --plat=windows --arch=x64 --mode=release --kind=static --vs=2022 --runtimes=MT "--buildir=C:\\\\Users\\\\Admin\\\\Desktop\\\\I HATE EMBERS\\\\build\\\\.packages\\\\u\\\\uesdk\\\\latest\\\\cache\\\\build_b1caf5ae"]],
+        [[xmake build -P "C:\\\\Users\\\\Admin\\\\Desktop\\\\I HATE EMBERS\\\\myrepo\\\\packages\\\\u\\\\uesdk\\\\port"]],
+        [[xmake repo -P "C:\\\\Users\\\\Admin\\\\Desktop\\\\I HATE EMBERS\\\\myrepo\\\\packages\\\\u\\\\uesdk\\\\port" --add myrepo "C:\\\\Users\\\\Admin\\\\Desktop\\\\I HATE EMBERS\\\\myrepo"]],
+        [[xmake f -P "C:\\\\Users\\\\Admin\\\\Desktop\\\\I HATE EMBERS\\\\myrepo\\\\packages\\\\u\\\\uesdk\\\\port" -y -c --plat=windows --arch=x64 --mode=release --kind=static --vs=2022 --runtimes=MT "--buildir=C:\\\\Users\\\\Admin\\\\Desktop\\\\I HATE EMBERS\\\\build\\\\.packages\\\\u\\\\uesdk\\\\latest\\\\cache\\\\build_b1caf5ae"]],
+        [[xmake build -P "C:\\\\Users\\\\Admin\\\\Desktop\\\\I HATE EMBERS\\\\myrepo\\\\packages\\\\u\\\\uesdk\\\\port"]],
+        [[xmake repo -P D:\XRepo\packages\u\uesdk\source --add xrepo D:\XRepo]],
+        [[xmake f -P D:\XRepo\packages\u\uesdk\source -y -c --plat=windows --arch=x64 --mode=release --kind=static --vs=2022 --runtimes=MT --buildir=C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae]],
+        [[xmake repo -P D:\XRepo\packages\u\uesdk\source --diagnosis --verbose --add xrepo D:\XRepo]],
+        [[xmake f -P D:\XRepo\packages\u\uesdk\source --diagnosis --verbose -y -c --plat=windows --arch=x64 --mode=release --kind=static --vs=2022 --runtimes=MT --buildir=C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae]],
+        [[xmake build -P D:\XRepo\packages\u\uesdk\source --diagnosis --verbose]],
+        [[xmake repo -P D:\XRepo\packages\u\uesdk\source --add xrepo D:\XRepo]],
+        [[xmake f -P D:\XRepo\packages\u\uesdk\source -y -c --plat=windows --arch=x64 --mode=release --kind=static --vs=2022 --runtimes=MT --buildir=C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae]],
+        [[xmake repo -P D:\XRepo\packages\u\uesdk\source --diagnosis --verbose --add xrepo D:\XRepo]],
+        [[xmake f -P D:\XRepo\packages\u\uesdk\source --diagnosis --verbose -y -c --plat=windows --arch=x64 --mode=release --kind=static --vs=2022 --runtimes=MT --buildir=C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae]],
+        [[xmake build -P D:\XRepo\packages\u\uesdk\source --diagnosis --verbose]],
+        [[xmake install -y --nopkgs -o C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\b1caf5aecf3447d1bfaf66081135de32 -P D:\XRepo\packages\u\uesdk\source --diagnosis --verbose]],
+        [[xmake repo -P D:\XRepo\packages\u\uesdk\source --add xrepo D:\XRepo]],
+        [[xmake f -P D:\XRepo\packages\u\uesdk\source -y -c --plat=windows --arch=x64 --mode=release --kind=static --vs=2022 --runtimes=MT --buildir=C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae]],
+        [[xmake repo -P D:\XRepo\packages\u\uesdk\source --add xrepo D:\XRepo]],
+        [[xmake f -P D:\XRepo\packages\u\uesdk\source -y -c --plat=windows --arch=x64 --mode=release --kind=static --vs=2022 --runtimes=MT --buildir=C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae]],
+        [[xmake repo -P D:\XRepo\packages\u\uesdk\source --diagnosis --verbose --add xrepo D:\XRepo]],
+        [[xmake f -P D:\XRepo\packages\u\uesdk\source --diagnosis --verbose -y -c --plat=windows --arch=x64 --mode=release --kind=static --vs=2022 --runtimes=MT --buildir=C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae]],
+        [[xmake build -P D:\XRepo\packages\u\uesdk\source --diagnosis --verbose]],
+        [[xmake install -y --nopkgs -o C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\b1caf5aecf3447d1bfaf66081135de32 -P D:\XRepo\packages\u\uesdk\source --diagnosis --verbose]],
+        [[xmake repo -P D:\XRepo\packages\u\uesdk\source --add xrepo D:\XRepo]],
+        [[xmake f -P D:\XRepo\packages\u\uesdk\source -y -c --plat=windows --arch=x64 --mode=release --kind=static --vs=2022 --runtimes=MT --buildir=C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae]],
+        [[xmake build -P D:\XRepo\packages\u\uesdk\source]],
+        [[xmake install -y --nopkgs -o C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\b1caf5aecf3447d1bfaf66081135de32 -P D:\XRepo\packages\u\uesdk\source]]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    find_program_msvc_arch_x64_plat_windows_checktoolcxx = {
+        ["cl.exe"] = [[C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\HostX64\x64\cl.exe]]
+    },
+    find_package_windows_x64_fetch_package_xmake = {
+        ["xmake::libhat_5866611980484deb8e605bc5e6699d9d_release_latest_external"] = {
+            license = "MIT",
+            static = true,
+            linkdirs = {
+                [[C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae\.packages\l\libhat\latest\5866611980484deb8e605bc5e6699d9d\lib]]
+            },
+            libfiles = {
+                [[C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae\.packages\l\libhat\latest\5866611980484deb8e605bc5e6699d9d\lib\libhat.lib]]
+            },
+            links = {
+                "libhat"
+            },
+            sysincludedirs = {
+                [[C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae\.packages\l\libhat\latest\5866611980484deb8e605bc5e6699d9d\include]]
+            },
+            version = "latest"
+        }
+    },
+    find_program = {
+        ["cl.exe"] = [[C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\HostX64\x64\cl.exe]],
+        git = "git",
+        gzip = false,
+        nim = false,
+        ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\cl.exe"] = [[C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\HostX64\x64\cl.exe]],
+        ["7z"] = [[C:\Program Files\xmake\winenv\bin\7z]]
+    },
+    ["detect.sdks.find_vcpkgdir"] = false,
+    find_programver = {
+        ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\cl.exe"] = "19.42.34435"
+    },
+    find_package_windows_x64_fetch_package_system = {
+        libhat_5866611980484deb8e605bc5e6699d9d_release_external = false
+    },
+    find_program_msvc_arch_x64_plat_windows_checktoolar = {
+        ["link.exe"] = [[C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\HostX64\x64\link.exe]]
+    },
+    find_program_msvc_arch_x64_plat_windows_checktoolld = {
+        ["link.exe"] = [[C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\HostX64\x64\link.exe]]
+    },
+    find_program_msvc_arch_x64_plat_windows_checktoolcc = {
+        ["cl.exe"] = [[C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\HostX64\x64\cl.exe]]
+    },
+    ["lib.detect.has_flags"] = {
+        ["windows_x64_C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\cl.exe_19.42.34435_cxx__-nologo_-O2"] = true,
+        ["windows_x64_C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\cl.exe_19.42.34435_cxx_cxflags_-nologo_cl_sourceDependencies"] = true,
+        ["windows_x64_C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\cl.exe_19.42.34435_cxx_cxflags_-nologo_-DNDEBUG"] = true,
+        ["windows_x64_C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\cl.exe_19.42.34435_cxx_cxflags_-nologo_cl_external_includedir"] = true,
+        ["windows_x64_C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\HostX64\\x64\\cl.exe_19.42.34435_cxx_cxflags_-nologo_-std:c++20"] = true
+    }
+}

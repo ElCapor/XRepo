@@ -1,0 +1,10 @@
+{
+    repositories = {
+        xrepo = {
+            [[D:\XRepo]]
+        },
+        myrepo = {
+            [[C:\\Users\\Admin\\Desktop\\I HATE EMBERS\\myrepo]]
+        }
+    }
+}

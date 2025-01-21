@@ -1,0 +1,21 @@
+{
+    options = {
+        kind = "static",
+        buildir = [[C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae\.packages\l\libhat\latest\cache\build_58666119]],
+        vs = "2022",
+        arch = "x64",
+        runtimes = "MT",
+        static = true,
+        avx = false,
+        clean = true,
+        shared = false,
+        mode = "release",
+        sse = false,
+        plat = "windows"
+    },
+    mtimes = {
+        ["C:\\Users\\Admin\\AppData\\Local\\Temp\\.xmake\\250109\\_AF4250AB6FDA453083D040BB318D7770.lua"] = 1736428295,
+        ["xmake.lua"] = 1735816163
+    },
+    recheck = false
+}

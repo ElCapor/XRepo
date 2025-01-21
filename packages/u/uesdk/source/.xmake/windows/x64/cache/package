@@ -1,0 +1,14 @@
+{
+    libhat = {
+        __requirestr = "libhat",
+        linkdirs = [[C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae\.packages\l\libhat\latest\5866611980484deb8e605bc5e6699d9d\lib]],
+        static = true,
+        __enabled = true,
+        version = "latest",
+        license = "MIT",
+        sysincludedirs = [[C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae\.packages\l\libhat\latest\5866611980484deb8e605bc5e6699d9d\include]],
+        links = "libhat",
+        libfiles = [[C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae\.packages\l\libhat\latest\5866611980484deb8e605bc5e6699d9d\lib\libhat.lib]],
+        installdir = [[C:\Users\Admin\Desktop\ImGuiSDK\build\.packages\u\uesdk\latest\cache\build_b1caf5ae\.packages\l\libhat\latest\5866611980484deb8e605bc5e6699d9d]]
+    }
+}

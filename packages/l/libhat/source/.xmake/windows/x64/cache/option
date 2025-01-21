@@ -1,0 +1,9 @@
+{
+    static = {
+        __sourceinfo_default = { },
+        __scriptdir = [[D:\XRepo\packages\l\libhat\source]],
+        default = true,
+        showmenu = true,
+        __sourceinfo_showmenu = { }
+    }
+}
