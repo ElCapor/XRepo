@@ -1,5 +1,5 @@
 package("detours")
-    set_homepage("https://example.com")
+    set_homepage("https://github.com/ElCapor/XRepo")
     set_description("Hooking library for 1337 hax0rs")
 
     on_install("windows", function(package)
